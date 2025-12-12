@@ -1,0 +1,8 @@
+# Ignore folders that aren't part of the draft
+characters/
+worldbuilding/
+
+# Ignore Yarny metadata files (they're auto-generated)
+yarny-project.json
+yarny-story.json
+
