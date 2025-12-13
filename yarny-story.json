@@ -1,0 +1,88 @@
+{
+  "id": "local-story_58304b08-4028-467c-9bf1-18b654186f9b",
+  "title": "Test Novel",
+  "chapterIds": [
+    "chapter-1",
+    "chapter-2",
+    "chapter-3",
+    "chapter-4",
+    "chapter-5",
+    "chapter-6",
+    "chapter-7"
+  ],
+  "updatedAt": "2025-12-12T23:20:53.241Z",
+  "chapters": [
+    {
+      "id": "chapter-1",
+      "title": "Chapter 1",
+      "order": 0,
+      "snippetIds": [
+        "01-opening",
+        "02-the-discovery",
+        "03-first-conflict"
+      ]
+    },
+    {
+      "id": "chapter-2",
+      "title": "Chapter 2",
+      "order": 1,
+      "snippetIds": [
+        "01-new-day",
+        "02-investigation"
+      ]
+    },
+    {
+      "id": "chapter-3",
+      "title": "Chapter 3",
+      "order": 2,
+      "snippetIds": [
+        "01-revelation",
+        "02-resolution"
+      ]
+    },
+    {
+      "id": "chapter-4",
+      "title": "Chapter 4",
+      "order": 3,
+      "snippetIds": [
+        "01-return-to-library",
+        "02-the-first-lesson",
+        "03-seeing-the-layers",
+        "04-strange-visitor"
+      ]
+    },
+    {
+      "id": "chapter-5",
+      "title": "Chapter 5",
+      "order": 4,
+      "snippetIds": [
+        "01-the-watchers",
+        "02-first-step",
+        "03-lost",
+        "04-rescue"
+      ]
+    },
+    {
+      "id": "chapter-6",
+      "title": "Chapter 6",
+      "order": 5,
+      "snippetIds": [
+        "01-a-warning",
+        "02-the-anchor",
+        "03-the-convergence-begins",
+        "04-preparation"
+      ]
+    },
+    {
+      "id": "chapter-7",
+      "title": "Chapter 7",
+      "order": 6,
+      "snippetIds": [
+        "01-the-grove",
+        "02-the-watchers-arrive",
+        "03-anchoring",
+        "04-the-final-anchor"
+      ]
+    }
+  ]
+}
