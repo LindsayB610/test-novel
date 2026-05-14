@@ -1,5 +1,5 @@
 {
-  "id": "local-story_58304b08-4028-467c-9bf1-18b654186f9b",
+  "id": "local-story_c7e876e7-3cda-43bc-b46c-6b1963c2f572",
   "title": "Test Novel",
   "chapterIds": [
     "chapter-1",
@@ -10,7 +10,7 @@
     "chapter-6",
     "chapter-7"
   ],
-  "updatedAt": "2025-12-12T23:20:53.241Z",
+  "updatedAt": "2025-12-14T02:31:08.547Z",
   "chapters": [
     {
       "id": "chapter-1",
@@ -20,7 +20,8 @@
         "01-opening",
         "02-the-discovery",
         "03-first-conflict"
-      ]
+      ],
+      "color": "#EF4444"
     },
     {
       "id": "chapter-2",
@@ -29,7 +30,8 @@
       "snippetIds": [
         "01-new-day",
         "02-investigation"
-      ]
+      ],
+      "color": "#F97316"
     },
     {
       "id": "chapter-3",
@@ -38,7 +40,8 @@
       "snippetIds": [
         "01-revelation",
         "02-resolution"
-      ]
+      ],
+      "color": "#F59E0B"
     },
     {
       "id": "chapter-4",
@@ -49,7 +52,8 @@
         "02-the-first-lesson",
         "03-seeing-the-layers",
         "04-strange-visitor"
-      ]
+      ],
+      "color": "#EAB308"
     },
     {
       "id": "chapter-5",
@@ -60,7 +64,8 @@
         "02-first-step",
         "03-lost",
         "04-rescue"
-      ]
+      ],
+      "color": "#84CC16"
     },
     {
       "id": "chapter-6",
@@ -71,7 +76,8 @@
         "02-the-anchor",
         "03-the-convergence-begins",
         "04-preparation"
-      ]
+      ],
+      "color": "#10B981"
     },
     {
       "id": "chapter-7",
@@ -82,7 +88,8 @@
         "02-the-watchers-arrive",
         "03-anchoring",
         "04-the-final-anchor"
-      ]
+      ],
+      "color": "#14B8A6"
     }
   ]
 }

@@ -1,0 +1,15 @@
+{
+  "target": 5000,
+  "deadline": "2025-12-27T23:59:59",
+  "writingDays": [
+    true,
+    true,
+    false,
+    true,
+    true,
+    false,
+    true
+  ],
+  "daysOff": [],
+  "mode": "elastic"
+}
